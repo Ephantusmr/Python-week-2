@@ -1,0 +1,1 @@
+learnig how to create a file read and write on it using python
